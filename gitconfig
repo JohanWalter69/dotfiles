@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = walter.johan25@gmail.com
+	name = Johan Walter
